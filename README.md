@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandre</h1>
 <h3 align="center">Passionate about solving problems, back-end developer and full-stack developer in my spare time</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alehrodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="alehrodrigues" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alehrodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="alehrodrigues" /> </p>
 
 - 🔭 I’m currently working on [RPGToolsMTARevised](https://github.com/alehRodrigues/RPGToolsMTARevised)
 
@@ -120,10 +120,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alehRodrigues "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alehRodrigues " /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alehrodrigues&show_icons=true&locale=en&layout=compact" alt="alehrodrigues" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alehrodrigues&show_icons=true&locale=en&layout=compact" alt="alehrodrigues" /></p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alehrodrigues&show_icons=true&locale=en" alt="alehrodrigues" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alehrodrigues&show_icons=true&locale=en" alt="alehrodrigues" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alehrodrigues&" alt="alehrodrigues" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alehrodrigues&" alt="alehrodrigues" /></p>
