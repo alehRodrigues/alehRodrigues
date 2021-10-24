@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alehrodrigues&label=Profile%20views&color=0e75b6&style=flat" alt="alehrodrigues" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alehrodrigues" alt="alehrodrigues" /></a> </p>
-
 - 🔭 I’m currently working on [RPGToolsMTARevised](https://github.com/alehRodrigues/RPGToolsMTARevised)
 
 - 🌱 I’m currently learning **Javascript, ReactJS on https://www.hiringcoders.com.br**
